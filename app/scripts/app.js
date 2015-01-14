@@ -11,5 +11,6 @@
 angular
   .module('gpsdownloaderApp', [
     'ngResource',
-    'ui.layout'
+    'ui.layout',
+    'leaflet-directive'
   ]);

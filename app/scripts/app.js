@@ -10,5 +10,6 @@
  */
 angular
   .module('gpsdownloaderApp', [
-    'ngResource'
+    'ngResource',
+    'ui.layout'
   ]);
